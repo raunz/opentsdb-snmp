@@ -14,8 +14,6 @@ import sys
 
 sys.path.insert(0, "misc")
 
-from distribute_setup import use_setuptools
-use_setuptools()
 import setuptools
 
 import version
